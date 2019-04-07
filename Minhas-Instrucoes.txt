@@ -1,0 +1,7 @@
+Projeto criado no Eclipse como java Project
+
+Não foi utilizado nenhum framework, apenas os recursos da linguagem como java8, lambda, stream, etc.
+
+qualquer dúvida entrar em contato através do e-mail lucas_puglia@hotmail.com
+
+Desde já agradeço.
